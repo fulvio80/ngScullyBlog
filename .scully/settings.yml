@@ -1,0 +1,12 @@
+identifier: kfxe0cj840xcja75
+appPort: 1864
+staticPort: 1668
+reloadPort: 2667
+hostName: localhost
+projectName: ngScullyBlog
+homeFolder: /Users/fulviomassarelli/Desktop/studio/portfolio/firstBlog/ngScullyBlog
+distFolder: dist/ngScullyBlog
+outDir: >-
+  /Users/fulviomassarelli/Desktop/studio/portfolio/firstBlog/ngScullyBlog/dist/static
+handle404: ''
+allowErrorCollect: true

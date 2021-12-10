@@ -1,0 +1,121 @@
+Scully development Server is already started running in a different folder
+Scully development Server is already started running in a different folder
+Scully development Server is already started running in a different folder
+Scully development Server is already started running in a different folder
+NOTICE:
+****************************************************************************************
+  This is a development tool for Scully applications.
+  You can ignore the warning (TLS) or run scully with --no-warning
+****************************************************************************************
+Sent kill command to other server
+----------------------------------   To discover new routes in the angular app use "npm run scully -- --scanRoutes"Using stored unhandled routes!.----------------------------------
+
+
+
+----------------------------------Using stored unhandled routes!.   To discover new routes in the angular app use "npm run scully -- --scanRoutes"----------------------------------
+
+
+
+----------------------------------Using stored unhandled routes!.   To discover new routes in the angular app use "npm run scully -- --scanRoutes"----------------------------------
+
+
+
+----------------------------------Using stored unhandled routes!.   To discover new routes in the angular app use "npm run scully -- --scanRoutes"----------------------------------
+
+
+
+handleUnknownRoute: "/posts/jamstack-%C3%A8-un-modello-di-applicazione-web-basata-su-tre-pilastri", 404:""
+Route "/posts/jamstack-è-un-modello-di-applicazione-web-basata-su-tre-pilastri" not provided by angular app
+
+      ----------------
+      Error, missing "<scully-content>" in route "/posts/jamstack-è-un-modello-di-applicazione-web-basata-su-tre-pilastri"
+      without <scully-content> we can not render this route.
+      Make sure it is in there, and not inside any conditionals (*ngIf)
+      You can check this by opening "http://localhost:4200/posts/jamstack-è-un-modello-di-applicazione-web-basata-su-tre-pilastri"
+      when you serve your app with ng serve and then in the browsers console run:
+      document.querySelector('scully-content')
+      ----------------
+      
+----------------------------------Using stored unhandled routes!.   To discover new routes in the angular app use "npm run scully -- --scanRoutes"----------------------------------
+
+
+
+handleUnknownRoute: "/posts/jamstack-%C3%A8-un-modello-di-applicazione-web-basata-su-tre-pilastri", 404:""
+Route "/posts/jamstack-è-un-modello-di-applicazione-web-basata-su-tre-pilastri" not provided by angular app
+
+      ----------------
+      Error, missing "<scully-content>" in route "/posts/jamstack-è-un-modello-di-applicazione-web-basata-su-tre-pilastri"
+      without <scully-content> we can not render this route.
+      Make sure it is in there, and not inside any conditionals (*ngIf)
+      You can check this by opening "http://localhost:4200/posts/jamstack-è-un-modello-di-applicazione-web-basata-su-tre-pilastri"
+      when you serve your app with ng serve and then in the browsers console run:
+      document.querySelector('scully-content')
+      ----------------
+      
+----------------------------------Using stored unhandled routes!.   To discover new routes in the angular app use "npm run scully -- --scanRoutes"----------------------------------
+
+
+
+handleUnknownRoute: "/posts/jamstack-%C3%A8-un-modello-di-applicazione-web-basata-su-tre-pilastri", 404:""
+Route "/posts/jamstack-è-un-modello-di-applicazione-web-basata-su-tre-pilastri" not provided by angular app
+
+      ----------------
+      Error, missing "<scully-content>" in route "/posts/jamstack-è-un-modello-di-applicazione-web-basata-su-tre-pilastri"
+      without <scully-content> we can not render this route.
+      Make sure it is in there, and not inside any conditionals (*ngIf)
+      You can check this by opening "http://localhost:4200/posts/jamstack-è-un-modello-di-applicazione-web-basata-su-tre-pilastri"
+      when you serve your app with ng serve and then in the browsers console run:
+      document.querySelector('scully-content')
+      ----------------
+      
+----------------------------------Using stored unhandled routes!.   To discover new routes in the angular app use "npm run scully -- --scanRoutes"----------------------------------
+
+
+
+handleUnknownRoute: "/posts/jamstack-%C3%A8-un-modello-di-applicazione-web-basata-su-tre-pilastri", 404:""
+Route "/posts/jamstack-è-un-modello-di-applicazione-web-basata-su-tre-pilastri" not provided by angular app
+
+      ----------------
+      Error, missing "<scully-content>" in route "/posts/jamstack-è-un-modello-di-applicazione-web-basata-su-tre-pilastri"
+      without <scully-content> we can not render this route.
+      Make sure it is in there, and not inside any conditionals (*ngIf)
+      You can check this by opening "http://localhost:4200/posts/jamstack-è-un-modello-di-applicazione-web-basata-su-tre-pilastri"
+      when you serve your app with ng serve and then in the browsers console run:
+      document.querySelector('scully-content')
+      ----------------
+      
+----------------------------------Using stored unhandled routes!.   To discover new routes in the angular app use "npm run scully -- --scanRoutes"----------------------------------
+
+
+
+----------------------------------Using stored unhandled routes!.   To discover new routes in the angular app use "npm run scully -- --scanRoutes"----------------------------------
+
+
+
+----------------------------------Using stored unhandled routes!.   To discover new routes in the angular app use "npm run scully -- --scanRoutes"----------------------------------
+
+
+
+----------------------------------Using stored unhandled routes!.   To discover new routes in the angular app use "npm run scully -- --scanRoutes"----------------------------------
+
+
+
+handleUnknownRoute: "/posts/2021-12-10-posts/index.html", 404:""
+----------------------------------Using stored unhandled routes!.   To discover new routes in the angular app use "npm run scully -- --scanRoutes"----------------------------------
+
+
+
+----------------------------------Using stored unhandled routes!.   To discover new routes in the angular app use "npm run scully -- --scanRoutes"----------------------------------
+
+
+
+handleUnknownRoute: "/posts/2021-12-10-posts/index.html", 404:""
+----------------------------------Using stored unhandled routes!.   To discover new routes in the angular app use "npm run scully -- --scanRoutes"----------------------------------
+
+
+
+handleUnknownRoute: "/posts/2021-12-10-posts/index.html", 404:""
+----------------------------------Using stored unhandled routes!.   To discover new routes in the angular app use "npm run scully -- --scanRoutes"----------------------------------
+
+
+
